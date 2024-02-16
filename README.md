@@ -13,7 +13,7 @@ Movie Recommendation System combines Matrix Factorization (MF) and Multi-Layer P
 
 
 ## Dataset
-[The Movies Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset) is used to train. It vailable on Kaggle, specifically using the ratings_small.csv file. This dataset includes user IDs, movie IDs, and ratings, offering a comprehensive set of user interactions with movies.
+[The Movies Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset) is used to train.
 
 ## Requirements
 - Python 3.x
