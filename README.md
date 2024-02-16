@@ -13,10 +13,8 @@ Movie Recommendation System combines Matrix Factorization (MF) and Multi-Layer P
 
 
 ## Dataset
-The "The Movies Dataset" is used to train. It vailable on Kaggle, specifically using the ratings_small.csv file. This dataset includes user IDs, movie IDs, and ratings, offering a comprehensive set of user interactions with movies.
+The [The Movies Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset) is used to train. It vailable on Kaggle, specifically using the ratings_small.csv file. This dataset includes user IDs, movie IDs, and ratings, offering a comprehensive set of user interactions with movies.
 
-Dataset Link:
-https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 ## Requirements
 - Python 3.x
 - TensorFlow
@@ -35,5 +33,6 @@ The performance of the recommendation model is evaluated using the following met
 
 - Mean Absolute Error (MAE)
 - Mean Squared Error (MSE)
+  
 ## Example Use Case
 The model can predict individual user ratings for movies and recommend movies with the highest predicted ratings to users.
